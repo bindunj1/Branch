@@ -1,2 +1,2 @@
 b3.txt in master
-updated in hotfix
+updated in hotfix branch
