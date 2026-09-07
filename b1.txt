@@ -1,2 +1,2 @@
 b1.txt in master
-updated in release
+updated in release branch
