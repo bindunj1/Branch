@@ -1,2 +1,2 @@
 b2.txt in master
-updated in release
+updated in release brannch
